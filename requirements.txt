@@ -1,0 +1,8 @@
+faster-whisper
+google-generativeai
+requests
+opencv-python
+pillow
+subprocess
+pyshine
+pyyaml
